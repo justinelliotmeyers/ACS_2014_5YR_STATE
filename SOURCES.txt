@@ -1,0 +1,6 @@
+ftp://ftp.census.gov/geo/tiger/TIGER_DP/2014ACS
+
+ftp://ftp.census.gov/geo/tiger/TIGER_DP/2014ACS/ACS_2014_5YR_COUNTY.gdb.zip
+ftp://ftp.census.gov/geo/tiger/TIGER_DP/2014ACS/ACS_2014_5YR_COUSUB.gdb.zip
+ftp://ftp.census.gov/geo/tiger/TIGER_DP/2014ACS/ACS_2014_5YR_PLACE.gdb.zip
+ftp://ftp.census.gov/geo/tiger/TIGER_DP/2014ACS/ACS_2014_5YR_STATE.gdb.zip
